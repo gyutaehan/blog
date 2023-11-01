@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Java 정리 4. 예외처리와 Assert
 date: 2022-01-15 15:18:00
 categories: dev

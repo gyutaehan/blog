@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: oh-my-zsh 설치 후 Insecure completion-dependent directories detected 에러 메시지가 나왔을 때 해결방법
 date: 2020-09-14 10:18:00
 categories: dev

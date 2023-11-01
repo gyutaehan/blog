@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Java 정리, 람다식과 함수형인터페이스 - 3. Supplier,Predicate,Consumer,Function 인터페이스
 date: 2021-12-05 10:00:00
 categories: dev

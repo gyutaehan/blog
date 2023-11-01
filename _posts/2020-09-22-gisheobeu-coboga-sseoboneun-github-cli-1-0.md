@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 깃허브 초보가 써보는 GitHub CLI 1.0
 date: 2020-09-22 10:18:00
 categories: dev

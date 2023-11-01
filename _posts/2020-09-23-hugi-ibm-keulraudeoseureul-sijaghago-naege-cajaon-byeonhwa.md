@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 【후기】IBM 클라우더스를 시작하고 나에게 찾아온 변화
 date: 2020-09-23 10:18:00
 categories: dev

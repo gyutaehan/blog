@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 시놀로지 나스 Git Server에 사용자가 나오지 않을 때 해결 방법
 date: 2020-07-31 10:18:00
 categories: dev

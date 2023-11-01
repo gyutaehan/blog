@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 【IBM Cloud】쿠버네티스 서비스와 Kubernetes 배포 하기
 date: 2020-08-02 15:18:00
 categories: dev

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Java 정리 5. Date, Time
 date: 2022-03-13 10:18:00
 categories: dev

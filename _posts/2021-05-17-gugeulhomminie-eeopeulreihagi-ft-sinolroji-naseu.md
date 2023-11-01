@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 구글홈미니에 에어플레이하기 (ft, 시놀로지 나스)
 date: 2021-05-17 10:18:00
 categories: dev

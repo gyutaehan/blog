@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: IBM Cloud Essentials V2 수강 후기
 date: 2020-07-19 10:18:00
 categories: dev

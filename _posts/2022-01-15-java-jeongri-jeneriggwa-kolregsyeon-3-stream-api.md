@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Java 정리 3. Stream API
 date: 2022-01-15 10:18:00
 categories: dev

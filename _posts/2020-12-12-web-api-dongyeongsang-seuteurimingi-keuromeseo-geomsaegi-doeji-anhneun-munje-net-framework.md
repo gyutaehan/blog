@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: WEB API 동영상 스트리밍이 크롬에서 검색이 되지 않는 문제(.NET Framework)
 date: 2020-12-12 10:18:00
 categories: dev

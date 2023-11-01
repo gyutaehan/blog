@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 1. 깃허브에 프로젝트를 올려보자.
 date: 2020-07-30 10:18:00
 categories: dev

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: IBM Cloud Collection for Ansible를 이용하여 IBM Cloud 환경을 구성해보자.
 date: 2020-08-27 10:18:00
 categories: dev

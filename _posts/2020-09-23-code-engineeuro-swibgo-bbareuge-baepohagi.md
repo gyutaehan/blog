@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Code Engine으로 쉽고 빠르게 배포하기
 date: 2020-09-23 15:18:00
 categories: dev

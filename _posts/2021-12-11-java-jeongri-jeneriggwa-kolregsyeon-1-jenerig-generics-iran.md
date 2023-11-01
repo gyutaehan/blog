@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Java 정리, 제네릭과 콜렉션 - 1. 제네릭(Generics)이란?
 date: 2021-12-11 10:18:00
 categories: dev

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 리액티브 프로그래밍, RxJs를 시작해보자.
 date: 2020-08-24 10:18:00
 categories: dev

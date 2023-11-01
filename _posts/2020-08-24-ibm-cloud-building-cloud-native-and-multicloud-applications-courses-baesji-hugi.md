@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title:  【IBM Cloud】 Building Cloud Native and Multicloud Applications Courses 뱃지 후기
 date: 2020-08-24 15:18:00
 categories: dev

@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 【IBM Cloud】Kubernetes Service 생성
 date: 2020-08-02 10:18:00
 categories: dev

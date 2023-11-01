@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Deepin OS 설치 후기
 date: 2020-09-12 10:18:00
 categories: dev

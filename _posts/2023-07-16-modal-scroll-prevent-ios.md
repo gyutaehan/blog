@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Modal 스크롤 막는 방법, iOS 넌 진짜 
 date: 2023-07-16 16:39:00
 categories: dev

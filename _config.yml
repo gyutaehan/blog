@@ -33,6 +33,12 @@ theme: minima
 plugins:
   - jekyll-feed
 
+# Disqus comments
+disqus:
+  shortname: coding-ground-1
+
+google_analytics: G-TNTM5G55D2
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

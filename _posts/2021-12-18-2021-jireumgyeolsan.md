@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 2021 지름결산
 date: 2021-12-18 10:18:00
 categories: dev

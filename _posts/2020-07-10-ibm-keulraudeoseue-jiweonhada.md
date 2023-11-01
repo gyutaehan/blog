@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: IBM 클라우더스에 지원하다.
 date: 2020-07-10 10:18:00
 categories: dev

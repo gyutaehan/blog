@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: Mac에서 CocoaPods설치중 에러해결
 date: 2021-01-01 10:18:00
 categories: dev

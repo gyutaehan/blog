@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: 탑 페이지로 스크롤 올리는 법. iOS 넌 진짜(2)
 date: 2023-07-21 13:15:00
 categories: dev
