@@ -1,9 +1,11 @@
 ---
 layout: post
-comments: true
 title: 탑 페이지로 스크롤 올리는 법. iOS 넌 진짜(2)
+description: 
+- scrollTo를 사용했을때크롬이나, 안드로이드에서는 되는데 ios에서만 스크롤이 안될 때 쓰는 방법.
 date: 2023-07-21 13:15:00
 categories: dev
+author: Gyutae Han
 ---
 
 ### 방법1 

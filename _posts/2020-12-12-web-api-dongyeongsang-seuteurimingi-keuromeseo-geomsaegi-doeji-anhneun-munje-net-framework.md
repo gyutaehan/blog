@@ -2,8 +2,11 @@
 layout: post
 comments: true
 title: WEB API 동영상 스트리밍이 크롬에서 검색이 되지 않는 문제(.NET Framework)
+description: 
+- 닷넷프로그램 작성중 크롬에서 재생바가 되지 않는 문제점 해결방법입니다.
 date: 2020-12-12 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 ### 원래 코드

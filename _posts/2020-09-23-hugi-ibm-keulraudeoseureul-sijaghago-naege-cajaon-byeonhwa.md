@@ -2,8 +2,11 @@
 layout: post
 comments: true
 title: 【후기】IBM 클라우더스를 시작하고 나에게 찾아온 변화
+description: 
+- IBM 클라우더스 후기입니다.
 date: 2020-09-23 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 - [IBM 클라우더스에 지원하다.](http://localhost/ibm-keulraudeoseue-jiweonhada/)

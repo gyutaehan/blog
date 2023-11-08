@@ -2,8 +2,12 @@
 layout: post
 comments: true
 title: 시놀로지 나스 Git Server에 사용자가 나오지 않을 때 해결 방법
+description: 
+- 시놀로지 나스
+- Git Server에 사용자가 나오지 않을 때
 date: 2020-07-31 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 시놀로지나스에 관리자로 접속하여, SYNO.Git.lib 파일을 연다.

@@ -2,8 +2,12 @@
 layout: post
 comments: true
 title: 1. 깃허브에 프로젝트를 올려보자.
+description: 
+- 깃허브 기초
+- 깃허브 튜토리얼
 date: 2020-07-30 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 # 1. Git

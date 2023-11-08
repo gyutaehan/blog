@@ -2,8 +2,11 @@
 layout: post
 comments: true
 title: 깃허브 초보가 써보는 GitHub CLI 1.0
+description: 
+- GitHub CLI 기초
 date: 2020-09-22 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 2020년 9월 16일 릴리즈된 GitHub 커맨드라인, [**GitHub CLI**](https://github.blog/2020-09-17-github-cli-1-0-is-now-available/)가 릴리즈 되었습니다. 기존 GitHub에서 하던 작업들을 커맨드라인에서 할 수 있다고 하는데, GitHub 생초짜인 제가 한 번 써보았습니다.

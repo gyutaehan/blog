@@ -2,8 +2,11 @@
 layout: post
 comments: true
 title: 2021 지름결산
+description: 
+- 일본 개발자 지름결산, 코디벨로퍼
 date: 2021-12-18 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 *이 글은 [kodeveloper #지름신 Advent Calendar 2021](https://adventar.org/calendars/6974) 참여를 위한 글입니다.*

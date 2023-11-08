@@ -2,8 +2,11 @@
 layout: post
 comments: true
 title:  【IBM Cloud】 Building Cloud Native and Multicloud Applications Courses 뱃지 후기
+description: 
+- Building Cloud Native and Multicloud Applications Courses
 date: 2020-08-24 15:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 Cloud Core, IBM Cloud Essentials V2에 이어서 **Building Cloud Native and Multicloud Applications**을 수강하였습니다. 저번과 내용은 큰 차이점은 없으나, **Cloud Native**와 **멀티클라우드**에 관한 내용이 집중적으로 강의가 구성되어 있습니다.  이번 강의를 들으면서 느낀 점은 첫 번째 강의부터 들어서 그런지, 더 쉽게 내용이 이해가 되고 단어들도 익숙하게 들리기 시작했다는 점에서 뿌듯했습니다. 

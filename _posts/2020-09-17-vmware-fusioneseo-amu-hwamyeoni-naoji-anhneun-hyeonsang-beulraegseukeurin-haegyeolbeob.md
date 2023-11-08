@@ -2,8 +2,11 @@
 layout: post
 comments: true
 title: VMware Fusion에서 아무 화면이 나오지 않는 현상(블랙스크린) 해결법
+description: 
+- VMware Fusion 검은화면이 나왔을때 해결방법
 date: 2020-09-17 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 # 개요

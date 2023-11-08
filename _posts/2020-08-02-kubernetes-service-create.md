@@ -2,8 +2,12 @@
 layout: post
 comments: true
 title: 【IBM Cloud】Kubernetes Service 생성
+description: 
+- Kubernetes 서비스 생성
+- IBM Cloud 쿠버네티스 서비스
 date: 2020-08-02 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 # [IBM Cloud] Kubernetes Service 생성

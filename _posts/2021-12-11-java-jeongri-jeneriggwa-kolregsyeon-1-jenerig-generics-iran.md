@@ -2,8 +2,11 @@
 layout: post
 comments: true
 title: Java 정리, 제네릭과 콜렉션 - 1. 제네릭(Generics)이란?
+description: 
+- Java 자격증 제네릭
 date: 2021-12-11 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 ### ※이 글은 Java SE 8 기준으로 작성되었습니다.

@@ -2,8 +2,11 @@
 layout: post
 comments: true
 title: Deepin OS 설치 후기
+description: 
+- Deepin OS 설치 후기입니다.
 date: 2020-09-12 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 검색 도중 중국 자체 OS라고 불리우는 [Deepin](https://en.wikipedia.org/wiki/Deepin)을 설치해보았습니다.  

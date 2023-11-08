@@ -2,8 +2,11 @@
 layout: post
 comments: true
 title: Java 정리, 람다식과 함수형인터페이스 - 1. 함수형 인터페이스란?
+description: 
+- Java 자격증 함수형 인터페이스
 date: 2021-12-05 10:00:00
 categories: dev
+author: Gyutae Han
 ---
 
 > ※이 글은 Java SE 8 기준으로 작성되었습니다.

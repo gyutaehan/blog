@@ -2,8 +2,11 @@
 layout: post
 comments: true
 title: IBM Cloud Essentials V2 수강 후기
+description: 
+- IBM Cloud Essentials V2
 date: 2020-07-19 10:18:00
 categories: dev
+author: Gyutae Han
 ---
 
 [저번 글](http://localhost/ibm-keulraudeoseue-jiweonhada/)에서 소개한 IBM Cloud Core 코스에 이어 IBM Cloud Essentials V2코스를 수강하였습니다.

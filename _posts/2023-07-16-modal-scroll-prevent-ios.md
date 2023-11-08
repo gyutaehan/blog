@@ -1,9 +1,12 @@
 ---
 layout: post
 comments: true
-title: Modal 스크롤 막는 방법, iOS 넌 진짜 
+title: Modal 스크롤 막는 방법, iOS 넌 진짜
+description: 
+- ios에서 modal이 열여있을때 스크롤을 막는방법. 
 date: 2023-07-16 16:39:00
 categories: dev
+author: Gyutae Han
 ---
 
 ```javascript
