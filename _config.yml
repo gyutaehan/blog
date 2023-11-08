@@ -33,6 +33,11 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
+header_pages:
+  - about.md
+  - blog.md
+
+
 # Disqus comments
 disqus:
   shortname: coding-ground-1
