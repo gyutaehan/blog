@@ -65,4 +65,4 @@ CREATE VIEW view_name AS
      as t1 (user_id int, username varchar(50), password varchar(50), email varchar(255), created_on date, last_login date);
 ```
 
-위에서 연결한것 그대로 복사해와서 create view로 view를 만들어주면 되고, 서버1에 view가 만들어진것을 확인할 수 있다.
+위에서 연결한것 그대로 복사해와서 create view로 view를 만들어주면 되고, 서버2에 view가 만들어진것을 확인할 수 있다.
